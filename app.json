@@ -13,9 +13,26 @@
         {
           "origin": "https://n"
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/font/Satoshi-Black.eot"
+          ]
+        }
       ]
     ],
     "name": "testing3",
-    "slug": "testing3"
+    "slug": "test1writesonic",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "afc3b02a-41f2-4c0a-9690-865001774066"
+      }
+    },
+    "owner": "ashutosh_mishra_2"
   }
 }
